@@ -1,0 +1,7 @@
+ <view class="container">
+      <image src="/images1/me_person.png" class="user-avatar"></image>
+      <text class="user-name">hello nldrs</text>
+      <view class="moto-container" bindtap="jump">
+          <text class="moto">欢迎来到小程序</text>
+      </view>
+  </view>
